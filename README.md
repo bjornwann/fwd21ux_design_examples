@@ -11,4 +11,5 @@
 - call to action (an invitation to, for example, start subscribing)
 - form (clear structure with division of content and feedback on input)
 - animation (to help the user and give feedback)
-add this please
+- whatever
+- i am the globglogabgalab
