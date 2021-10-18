@@ -12,7 +12,4 @@
 - form (clear structure with division of content and feedback on input)
 - animation (to help the user and give feedback)
 
-- Massi WaS HERE
-=======
-- whatever
-- i am the globglogabgalab
+Add links below:
