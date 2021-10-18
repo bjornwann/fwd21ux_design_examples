@@ -12,3 +12,4 @@
 - form (clear structure with division of content and feedback on input)
 - animation (to help the user and give feedback)
 - whatever
+- i am the globglogabgalab
