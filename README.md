@@ -11,6 +11,11 @@
 - predictability (page structure guides me in how to proceed)
 - call to action (an invitation to, for example, start subscribing)
 - form (clear structure with division of content and feedback on input)
-- animation (to help the user and give feedback)
+- animation (to help the user and give feedback
+- Testing testing/Henrik
+- Amanda was here!
+- We also need to add some links :)
+- test /Paulina
+
 
 Add links below:
