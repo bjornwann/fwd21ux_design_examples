@@ -16,7 +16,7 @@
 - Amanda was here!
 - We also need to add some links :)
 - test /Paulina
-
+- Filip was here!
 
 Add links below:
 - http://www.feedmusic.com/#/ --A somewhat innovative website that has a good and interesting structure build.
