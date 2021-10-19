@@ -13,8 +13,9 @@
 9. animation (to help the user and give feedback
 
 ### Add links below:
-1. http://www.feedmusic.com/#/ --A somewhat innovative website that has a good and interesting structure build; https://developer.mozilla.org
-2. https://skatteverket.se;
+- http://www.feedmusic.com/#/ --A somewhat innovative website that has a good and interesting structure build
+- https://developer.mozilla.org
+- https://skatteverket.se
 -
 -
 -
