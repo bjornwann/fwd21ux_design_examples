@@ -12,5 +12,6 @@
 - form (clear structure with division of content and feedback on input)
 - animation (to help the user and give feedback)
 - Testing testing/Henrik
+- Amanda was here!
 
 Add links below:
