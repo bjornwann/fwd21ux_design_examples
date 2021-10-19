@@ -3,7 +3,6 @@
 ## Find websites that have good examples of designs by:
 
 - good navigation that is simple, predictable, consistent
-  - https://developer.mozilla.org
 - breadcrumbs (where am I?)
 - content breakdown (not too much information in one place)
 - good language and language structure (not too long text, clear headings, easy to read, etc.)
@@ -12,18 +11,24 @@
 - call to action (an invitation to, for example, start subscribing)
 - form (clear structure with division of content and feedback on input)
 - animation (to help the user and give feedback
+
+### Add links below:
+- http://www.feedmusic.com/#/ --A somewhat innovative website that has a good and interesting structure build.
+- https://developer.mozilla.org
+- https://skatteverket.se
+-
+-
+-
+-
+-
+-
+-
+
+### Test below this:
 - Testing testing/Henrik
 - Amanda was here!
 - We also need to add some links :)
 - test /Paulina
 - Filip was here!
-
-Add links below:
-- http://www.feedmusic.com/#/ --A somewhat innovative website that has a good and interesting structure build.
--
--
--
--
--
 -
 -
