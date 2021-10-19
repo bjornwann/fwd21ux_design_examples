@@ -13,5 +13,6 @@
 - animation (to help the user and give feedback)
 - Testing testing/Henrik
 - Amanda was here!
+- We also need to add some links :)
 
 Add links below:
