@@ -36,5 +36,9 @@
 - Filip was here!
 - Massi Was here
 - Juliett was here toooo :)!
+
+- Alex in the building
+=======
 - Massi was here here
 - Anna
+
